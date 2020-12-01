@@ -1,16 +1,26 @@
 # **Assignment Title**  
 
 ## **Assignment Description**  
-
+Create a function called sumDiff() that returns the difference of the sum and diffrence between a given int x and int y. Take the sum of x and y, and subract the difference of x and y. X plus Y minus X minus Y.
 
 ## **Examples**  
->
+>sumDiff(10, 5)  
+10
+
+>sumDiff(17, 2)  
+4
+
+>sumDiff(123, 99)  
+198
 
 ## **Limitations**  
+N/A
 
 ## **Hints**  
+Use parenthesis to indicate order of operations
 
 ## **Concepts**  
+functions, arguments
 
 ---
 
