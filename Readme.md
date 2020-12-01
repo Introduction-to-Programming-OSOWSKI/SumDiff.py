@@ -1,7 +1,7 @@
 # **Assignment Title**  
 
 ## **Assignment Description**  
-Create a function called sumDiff() that returns the difference of the sum and diffrence between a given int x and int y. Take the sum of x and y, and subract the difference of x and y. X plus Y minus X minus Y.
+Create a function called sumDiff() that returns the difference of the sum and diffrence between two given variables x and y. Take the sum of x and y, and subract the difference of x and y. X plus Y minus X minus Y.
 
 ## **Examples**  
 >sumDiff(10, 5)  
