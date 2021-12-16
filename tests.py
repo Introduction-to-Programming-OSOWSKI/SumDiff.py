@@ -6,8 +6,8 @@ import main;
 import datetime;
 
 year = 2021
-month = 9
-day = 24
+month = 12
+day = 30
 
 def test_code():
     assert main.sumDiff(10, 5) == 10, "sumDiff(10, 5) == 10 failed"
