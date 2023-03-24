@@ -5,9 +5,9 @@
 import main;
 import datetime;
 
-year = 2022
-month = 9
-day = 17
+year = 2023
+month = 4
+day = 1
 
 def test_code():
     assert main.sumDiff(10, 5) == 10, "sumDiff(10, 5) == 10 failed"
